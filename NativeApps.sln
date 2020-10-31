@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30516.212
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nativerun", "nativerun\nativerun.vcxproj", "{CCE67FD7-FABA-492A-B06E-C356C433B2CB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simple", "simple\simple.vcxproj", "{DBA1BBF0-83D9-4776-AE2A-6BEAC75AD38D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "listprivs", "listprivs\listprivs.vcxproj", "{82EFB6AF-6694-4656-9BDA-ECFC18D73318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		NativeDebug|x64 = NativeDebug|x64
+		NativeRelease|x64 = NativeRelease|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCE67FD7-FABA-492A-B06E-C356C433B2CB}.Debug|x64.ActiveCfg = Debug|x64
+		{CCE67FD7-FABA-492A-B06E-C356C433B2CB}.Debug|x64.Build.0 = Debug|x64
+		{CCE67FD7-FABA-492A-B06E-C356C433B2CB}.NativeDebug|x64.ActiveCfg = NativeDebug|x64
+		{CCE67FD7-FABA-492A-B06E-C356C433B2CB}.NativeRelease|x64.ActiveCfg = NativeRelease|x64
+		{CCE67FD7-FABA-492A-B06E-C356C433B2CB}.Release|x64.ActiveCfg = Release|x64
+		{CCE67FD7-FABA-492A-B06E-C356C433B2CB}.Release|x64.Build.0 = Release|x64
+		{DBA1BBF0-83D9-4776-AE2A-6BEAC75AD38D}.Debug|x64.ActiveCfg = Debug|x64
+		{DBA1BBF0-83D9-4776-AE2A-6BEAC75AD38D}.Debug|x64.Build.0 = Debug|x64
+		{DBA1BBF0-83D9-4776-AE2A-6BEAC75AD38D}.NativeDebug|x64.ActiveCfg = NativeDebug|x64
+		{DBA1BBF0-83D9-4776-AE2A-6BEAC75AD38D}.NativeRelease|x64.ActiveCfg = NativeRelease|x64
+		{DBA1BBF0-83D9-4776-AE2A-6BEAC75AD38D}.Release|x64.ActiveCfg = Release|x64
+		{DBA1BBF0-83D9-4776-AE2A-6BEAC75AD38D}.Release|x64.Build.0 = Release|x64
+		{82EFB6AF-6694-4656-9BDA-ECFC18D73318}.Debug|x64.ActiveCfg = Debug|x64
+		{82EFB6AF-6694-4656-9BDA-ECFC18D73318}.Debug|x64.Build.0 = Debug|x64
+		{82EFB6AF-6694-4656-9BDA-ECFC18D73318}.NativeDebug|x64.ActiveCfg = NativeDebug|x64
+		{82EFB6AF-6694-4656-9BDA-ECFC18D73318}.NativeDebug|x64.Build.0 = NativeDebug|x64
+		{82EFB6AF-6694-4656-9BDA-ECFC18D73318}.NativeRelease|x64.ActiveCfg = NativeRelease|x64
+		{82EFB6AF-6694-4656-9BDA-ECFC18D73318}.NativeRelease|x64.Build.0 = NativeRelease|x64
+		{82EFB6AF-6694-4656-9BDA-ECFC18D73318}.Release|x64.ActiveCfg = Release|x64
+		{82EFB6AF-6694-4656-9BDA-ECFC18D73318}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EC21B95-5C52-46A1-984D-71459F85608F}
+	EndGlobalSection
+EndGlobal
